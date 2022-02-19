@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "996801810185",
+    "project_id": "sunsc-8c924",
+    "storage_bucket": "sunsc-8c924.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:996801810185:android:00e5e31c669c974da94dd8",
+        "android_client_info": {
+          "package_name": "dev.aman.sunsc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "996801810185-q8fjgocpl1aa14i7mjbhfqgq6u8hjd2b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdqDJn6RBuwUjro9Mjlgj7POopmtrqgCw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "996801810185-q8fjgocpl1aa14i7mjbhfqgq6u8hjd2b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
